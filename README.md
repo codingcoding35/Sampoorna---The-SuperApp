@@ -1,4 +1,4 @@
-# Sampoorna---The-SuperApp <img width="213" height="419" alt="Screenshot 2025-08-17 at 2 41 16 PM" src="https://github.com/user-attachments/assets/4b6c3587-94de-43af-b9bc-df22fbecb283" />
+<img width="213" height="419" alt="Screenshot 2025-08-17 at 2 41 16 PM" src="https://github.com/user-attachments/assets/4b6c3587-94de-43af-b9bc-df22fbecb283" />
 <img width="220" height="429" alt="Screenshot 2025-08-17 at 2 41 29 PM" src="https://github.com/user-attachments/assets/abd16937-e747-4447-be0a-a1e217cd1490" />
 <img width="220" height="435" alt="Screenshot 2025-08-17 at 2 41 49 PM" src="https://github.com/user-attachments/assets/afd6439d-4266-4fbd-8dcf-8719d816b114" />
 <img width="228" height="427" alt="Screenshot 2025-08-17 at 2 41 59 PM" src="https://github.com/user-attachments/assets/20390418-d78e-44a7-8a63-aec34400205c" />
